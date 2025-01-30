@@ -1,3 +1,2 @@
 # demo_conflict
-
-This repo is intended for training
+This is a training repo that we use in the VC course.
