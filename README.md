@@ -1,2 +1,3 @@
 # demo_conflict
-This is a training repo
+
+This repo is intended for training
